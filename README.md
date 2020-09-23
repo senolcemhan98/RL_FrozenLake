@@ -41,5 +41,4 @@ kullanılmıştır.
 
 ## Kullanılan Q-Learning Algoritması Formülü:
 
-![image](https://user-images.githubusercontent.com/58151691/94074303-b0a13a00-fe01-11ea-9c93-6f6177aecffb.png)
-
+![image](https://user-images.githubusercontent.com/58151691/94074487-083fa580-fe02-11ea-93cc-fca5fdac405a.png)
