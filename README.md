@@ -27,7 +27,7 @@ Amaç : Başlangıç noktasından başlayarak Hedef Noktaya ulaşmak.
 - Aşağı
 
 Actionlar stokastik şekilde tanımlanmış bunu deterministik şekle çevirmek için;
-
+```
 from gym.envs.registration import register
 register(
     id='FrozenLakeNotSlippery-v0',
@@ -36,7 +36,7 @@ register(
     max_episode_steps=100,
     reward_threshold=0.78, # optimum = .8196
 )
-
+```
 kullanılmıştır.
 
 ## Kullanılan Q-Learning Algoritması Formülü:
